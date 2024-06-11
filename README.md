@@ -34,13 +34,13 @@ Calls the rotLeft function and prints the rotated array
 2 / 2
 
 Group members name;
-Adeniji boluwatife Joan bhu/22/04/05/0031
+Adeniji boluwatife Joan bhu/22/04/05/0031.
 Victor ayomide
-Bhu/22/04/10/0010
+Bhu/22/04/10/0010.
 Angelo okiotorhoro
-Bhu/22/04/10/0016
+Bhu/22/04/10/0016.
 Effiong Samuel
-Bhu/22/04/05/0099
+Bhu/22/04/05/0099.
 
 
 
